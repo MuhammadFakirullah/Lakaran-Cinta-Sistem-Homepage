@@ -1,0 +1,49 @@
+.navbar-brand{
+    color: white;
+    text-decoration: none;
+}
+.nav-link{
+    color: white;
+}
+.text-p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+.container{
+    color: white;
+}
+.card{
+    color: #1f3457
+}
+.form-control{
+  border-radius: 2px;
+}
+.comment-slider {
+  max-width: 800px;
+  margin: auto;
+}
+
+.comment-box {
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  background-color: none;
+}
+audio {
+  display: none;
+}
+.navbar-brand{
+  color: white !important;
+}
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-nav .nav-link.active {
+  color: white !important;
+}
+
+.navbar-nav .nav-link.active {
+  background-color: transparent !important;
+}
